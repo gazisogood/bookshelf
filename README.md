@@ -23,3 +23,4 @@ $ npm run start
 
 ### Макет и референсы
 [Figma](https://www.figma.com/file/oBbd2fKV3gRC30rbegOTAD/bookshelf_21s?type=design&node-id=0%3A1&t=iMfV6jjDVyv2FxZF-1)
+[Figma прототип](https://www.figma.com/file/a5GPIu2x9yMoXEht0wRcxM/Untitled?type=design&node-id=0%3A1&mode=design&t=siQWBttdhuODV0w2-1)
